@@ -22,7 +22,7 @@
   "dependencies": {
     "@fastify/cors": "8.2.0",
     "@logseq/rsapi": "0.0.81",
-    "@sentry/electron": "2.5.1",
+    "@sentry/electron": "4.15.0",
     "abort-controller": "3.0.0",
     "better-sqlite3": "9.3.0",
     "chokidar": "^3.5.1",
