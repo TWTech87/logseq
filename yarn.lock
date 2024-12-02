@@ -6905,13 +6905,10 @@ semver@^7.3.2, semver@^7.3.4, semver@^7.3.5, semver@^7.3.7:
   dependencies:
     lru-cache "^6.0.0"
 
-send-intent@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/send-intent/-/send-intent-5.0.0.tgz#95d00455a7db4d95d9f79f8203698e96760c7408"
-  integrity sha512-d3moLwVdQlv/lWPR8MYPUv3HufOrfcbyAvELla8DnJZwzLD9vYWF4UlgsEp/l5ADOyNW0KuvRVIE2cuCZqZLxA==
-  dependencies:
-    "@capacitor/cli" "^5.0.0"
-    "@capacitor/core" "^5.0.0"
+send-intent@^6.0.1:
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/send-intent/-/send-intent-6.0.2.tgz#0c35f903b38eb2524b1384453a099d41221e579f"
+  integrity sha512-flab+kgIutFLYfNgs6HIXkGJ7ELO+c10KGvNvYwHYlPfjglJwrqsqKZW1jSgws1h1iF+B8wXI/Ab5sbA5TTZeA==
 
 serialize-error@^7.0.1:
   version "7.0.1"
